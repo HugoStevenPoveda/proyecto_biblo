@@ -57,7 +57,7 @@ services:
       - some-network
 
   apivectorial:
-    image: hugostevenpoveda692/api-vectorial:lates
+    image: hugostevenpoveda692/api-vectorial:latest
     container_name: appvectorial
     ports: 
       - "7000:7000"
